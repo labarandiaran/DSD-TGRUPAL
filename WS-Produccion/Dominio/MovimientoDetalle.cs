@@ -9,6 +9,7 @@ namespace WS_Produccion
         [DataMember]
         public int Id { get; set; }
 
+
         [DataMember]
         public Nullable<decimal> Cantidad { get; set; }
 
